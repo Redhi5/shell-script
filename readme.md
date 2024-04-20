@@ -4,8 +4,17 @@
 
 * Create repo in Github
 * Clone repo in local laptop
+```
+git clone <repo-url>
+
+```
 * Start developing
+```
+git status
+
+```
 * Add the files to temp area
+
 ```
 git add <file-name>
 
